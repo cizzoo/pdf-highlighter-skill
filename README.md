@@ -11,11 +11,11 @@ The skill checks for PyMuPDF on every run and stops with install instructions if
 
 ## Install
 
-Easiest: download `pdf-highlighter.zip` from the [latest release](https://github.com/cizzoo/pdf-highlighter-skill/releases/latest) and unzip it into `~/.claude/skills/`.
+### Claude Code
 
-Or from source: ### CLaude Code
+Download `pdf-highlighter.zip` from the [latest release](https://github.com/cizzoo/pdf-highlighter-skill/releases/latest) and unzip it into `~/.claude/skills/`.
 
-The skill lives in the `pdf-highlighter/` folder of this repo. Clone the repo anywhere, then copy that folder into your Claude Code skills directory (the folder name must match the skill name):
+Or from source: the skill lives in the `pdf-highlighter/` folder of this repo. Clone the repo anywhere, then copy that folder into your Claude Code skills directory (the folder name must match the skill name):
 
 ```bash
 git clone https://github.com/cizzoo/pdf-highlighter-skill.git
@@ -32,7 +32,7 @@ For a single project, use `<project>/.claude/skills/` instead of `~/.claude/skil
 
 ### Claude.ai
 
-Download the skill as a zip from the [Releases page](
+Download the skill as a zip from the [Releases page](https://github.com/cizzoo/pdf-highlighter-skill/releases/latest).
 
 ## Usage
 
